@@ -41,4 +41,4 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 - Increasing Police present across Manhattan and Brooklyn around festivals will decrease the peak noise complaints.
 -  In Brooklyn there are only 18 Zip code that had more than 100 noise and in Manhattan there are 19 Zip code. Having more Police present in these area could help to reduce noise complaints.
 -  Majority of the noise complaints occur between 10pm and 2am - especially in Brooklyn and Manhattan
-=
+
