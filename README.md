@@ -16,14 +16,14 @@ This project focuses on Noise complaints that were collected in 2016 and indicat
 **Kaggle**: https://www.kaggle.com/somesnm/partynyc
 
 
-# [2. Data Cleaning](https://github.com/Jaspreetsm21/Yelp_Restaurants_Reviews_Analysis/blob/master/Data%20Cleaning.ipynb)
+# [1. Data Cleaning](https://github.com/Jaspreetsm21/nyc_noise_complaints/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
 
 After downloading the data, I needed to clean it up so that it was usable for our analysis. 
 
 - Changing the Created Date column to date type and adding new columns Year,Month and Day. 
 
 
-# [3. EDA](https://github.com/Jaspreetsm21/Yelp_Restaurants_Reviews_Analysis/blob/master/EDA.ipynb)
+# [2. EDA](https://github.com/Jaspreetsm21/nyc_noise_complaints/blob/main/Data%20Cleaning%20and%20EDA.ipynb)
 
 ![](images/P1.PNG)
 ![](images/P2.PNG)
