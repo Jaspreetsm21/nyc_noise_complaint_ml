@@ -34,3 +34,11 @@ After downloading the data, I needed to clean it up so that it was usable for ou
 ![](images/P7.PNG)
 
 # Insight
+- Noise Complaints peaks around festivals, we can clearly see a seasonal pattern from New Year, Easter, Halloween and Christmas.
+- On Average Bronx received fewer noise calls in all of the 5 Borough. Whereas Brooklyn/Manhattan received twice as many calls than Bronx. 
+- On Weekend there more calls received, this could be due to more people going out.
+- Brooklyn/Manhattan has 8 to 9 times more Club/Bar/Restaurant than Bronx(& Staten Island).Which mean there could be a correlation between more places more noise complaints.
+- Increasing Police present across Manhattan and Brooklyn around festivals will decrease the peak noise complaints.
+-  In Brooklyn there are only 18 Zip code that had more than 100 noise and in Manhattan there are 19 Zip code. Having more Police present in these area could help to reduce noise complaints.
+-  Majority of the noise complaints occur between 10pm and 2am - especially in Brooklyn and Manhattan
+=
